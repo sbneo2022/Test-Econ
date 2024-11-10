@@ -1,0 +1,5 @@
+streamlit==1.31.1
+watchdog==4.0.0
+plotly==5.19.0
+openpyxl==3.1.5
+pandas_datareader==0.10.0
