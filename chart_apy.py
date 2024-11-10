@@ -57,8 +57,8 @@ class APYPlotCreator(PlotCreator):
             template="plotly_dark",
             height=800,
             showlegend=True,
-            paper_bgcolor="rgba(30,30,30,0.8)",
-            plot_bgcolor="rgba(30,30,30,0.8)",
+            paper_bgcolor="rgba(0,0,0,0)",
+            plot_bgcolor="rgba(0,0,0,0)",
             margin=dict(l=50, r=50, t=50, b=50),
         )
 
